@@ -157,7 +157,7 @@ a{
     align-items: center;
     text-align: center;
     position: relative;
-    background: url(/background.jpg);
+    background: url(background.jpg);
   }
   
 .hero-content h2 {
@@ -869,3 +869,4 @@ body {
         border-color: transparent;
     }
 }
+
