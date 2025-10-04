@@ -541,7 +541,7 @@ box-shadow: 0 0 50px #0ef;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
 }
 
-/* Sci-Fi Colors */
+
 .skill-bar:nth-child(1) .skill {
   background: #0ef;;
 }
@@ -558,7 +558,7 @@ box-shadow: 0 0 50px #0ef;
   background: #eca098;
 }
 
-/* Animating the skill bars on page load */
+
 @keyframes reveal {
   0% {
       width: 0;
@@ -570,7 +570,7 @@ box-shadow: 0 0 50px #0ef;
   }
 }
 
-/* Skill-specific widths */
+
 .skill-bar:nth-child(1) .skill {
   --skill-width: 78%;
 }
@@ -584,26 +584,26 @@ box-shadow: 0 0 50px #0ef;
 }
 
 .skill-bar:nth-child(4) .skill {
-  --skill-width: 40%;
+  --skill-width: 50%;
 }
 
-/* Applying the reveal animation to the skill bars */
+
 .skill-bar .skill {
   animation: reveal 2s forwards;
 }
 
-/* Smooth Hover Effect for Interactivity */
+
 .skill-bar:hover .skill {
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
   transition: box-shadow 0.3s ease-in-out;
 }
 
-/* Customize font family and overall text style */
+
 body {
   font-family: 'Orbitron', sans-serif;
 }
 
-/* Portfolio Section */
+
 .w {
   background-color: #1a1717;
   height: 150vh;
@@ -869,4 +869,5 @@ body {
         border-color: transparent;
     }
 }
+
 
