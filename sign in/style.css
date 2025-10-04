@@ -1,7 +1,7 @@
 
 body {
   font-family: Arial, sans-serif;
-     background: url(/you\ website/1.jpg);
+     background: url(1.jpg);
   margin: 0;
   padding: 0;
   display: flex;
@@ -112,4 +112,5 @@ h2 {
 }
 .submit-btn:active{
   opacity: 0.6;
+
 }
