@@ -7,6 +7,8 @@ To see my website copy the url down below and past it in the search bar or just 
 https://ajstyle-code.github.io/update-portfolio-website-/OG.html
 
 
-next update 'API'
+next update 'API'. Im trying to make my own payment Api but it will take some time.
+
+Free candy will not work for now because im trying to make the payment for it
 
 
